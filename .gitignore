@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtualenv
+venv/
+env/
+ENV/
+.venv/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+static/
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# Migrations (если хочешь игнорировать их — по желанию)
+# **/migrations/
+# !*/migrations/__init__.py
+
+# Node (если используешь frontend)
+node_modules/
+
+# Coverage / Testing
+htmlcov/
+coverage.xml
+*.cover
+.cache
+.pytest_cache/
+
+# Docker
+*.pid
+
+# Jupyter
+.ipynb_checkpoints/
