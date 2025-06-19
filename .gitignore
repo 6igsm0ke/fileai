@@ -53,3 +53,5 @@ coverage.xml
 
 # Jupyter
 .ipynb_checkpoints/
+
+vision-key.json
